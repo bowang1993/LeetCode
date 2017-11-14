@@ -5,3 +5,4 @@ Given an array where elements are sorted in ascending order, convert it to a hei
 将一个有序数组转换为一个平衡二叉树。  
 1. 既然是二叉树，肯定要用到二分搜索
 2. 使用递归实现二叉树的构造
+3. leetcode确实做的很好，上述代码中的注释，两种情况都可以
